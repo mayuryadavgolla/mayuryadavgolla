@@ -1,47 +1,101 @@
-# Mayur Yadav Golla
+Mayur Yadav Golla
 
-### Senior Frontend Developer | Angular | TypeScript | JavaScript
+Senior Frontend Developer | Angular | TypeScript | JavaScript
 
-Senior Frontend Developer with 9+ years of experience building
-enterprise web applications, data-driven dashboards, and
-user-focused interfaces.
+Senior Frontend Developer with 9+ years of experience building enterprise-grade web applications, data-driven dashboards, and responsive user interfaces.
 
-## 🛠️ Technical Focus
+I specialize in Angular, TypeScript, JavaScript, RxJS, REST API integration, performance optimization, and frontend architecture. I enjoy turning complex business requirements into maintainable, scalable, and user-focused applications.
 
-- Angular
-- TypeScript
-- JavaScript
-- RxJS
-- HTML5 / CSS3
-- REST APIs
-- Firebase / Firestore
-- python
-- Git
+⸻
 
-## 🚀 Featured Projects
+🛠️ Technical Focus
 
-### 🚗 OILMATE
+* Frontend: Angular, TypeScript, JavaScript, RxJS
+* Web: HTML5, CSS3, Responsive Design
+* Architecture: Component-driven architecture, reusable services, routing, guards, interceptors
+* API & Data: REST APIs, Firebase, Firestore
+* Visualization: Data-driven dashboards and interactive UI
+* Performance: Change detection optimization, lazy loading, efficient rendering
+* Tools: Git, GitHub
 
-A physics-first automotive diagnostic platform focused on
-OBD data ingestion, baseline learning, signal drift detection,
-context-aware analysis, and explainable diagnostics.
+⸻
 
-🔒 Core implementation is maintained in a private repository.
+🚀 Featured Projects
 
-### 🌱 S.R. Organic
+🚗 OILMATE — Automotive Diagnostic Platform
 
-A business web application built with Angular and Firebase
-for product presentation, administration, and customer interaction.
+A physics-first automotive diagnostic platform designed around real vehicle data rather than black-box predictions.
 
-## 💼 Experience
+The system explores:
 
-- 9+ years of frontend development
-- Enterprise application development
-- Data visualization and dashboards
-- REST API integration
-- Performance optimization
-- Responsive UI development
+* OBD Mode 01 data collection
+* Vehicle signal normalization
+* Baseline learning
+* Signal drift detection
+* Driving-context awareness
+* Physics-based diagnostic rules
+* Explainable alerts
+* Data-quality and confidence gating
 
-## 📫 Contact
+Architecture: Flutter/OBD data collection → diagnostic pipeline → baseline → drift analysis → physics rules → explainable findings
 
-Open to Senior Frontend Developer opportunities.
+🔒 The core diagnostic implementation is maintained in a private repository.
+
+Repositories:
+
+* 🔧 OILMATE Adapter — OBD/vehicle data collection and adapter layer
+* 🧠 OILMATE Core — Core diagnostic and analysis engine (private)
+
+⸻
+
+🌱 S.R. Organic — Business Web Application
+
+A real-world Angular + Firebase business application built for an organic products business.
+
+The application includes:
+
+* Product catalog and product details
+* Firebase Authentication
+* Firestore-based product management
+* Admin dashboard
+* Website content management
+* Product CRUD operations
+* Responsive customer-facing interface
+* Reusable Angular services and components
+
+🔗 View S.R. Organic Repository
+
+⸻
+
+💼 Professional Experience
+
+* 9+ years of frontend development experience
+* Enterprise Angular application development
+* Large-scale dashboards and data visualization
+* REST API integration
+* Reusable component and service architecture
+* Performance optimization
+* Responsive UI development
+* Angular version migrations and modernization
+* Agile/Scrum development
+
+⸻
+
+🎯 Currently Focused On
+
+* Advanced Angular architecture
+* Frontend system design
+* JavaScript & TypeScript internals
+* RxJS and reactive application architecture
+* Performance engineering
+* Building practical, production-oriented applications
+
+⸻
+
+📫 Open to Opportunities
+
+I’m currently open to Senior Frontend Developer / Senior Angular Developer opportunities where I can contribute to complex applications, frontend architecture, and scalable UI development.
+
+Let’s Connect
+
+GitHub: github.com/mayuryadavgolla
