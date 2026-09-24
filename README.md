@@ -37,14 +37,17 @@ The system explores:
 * Explainable alerts
 * Data-quality and confidence gating
 
-Architecture: Flutter/OBD data collection → diagnostic pipeline → baseline → drift analysis → physics rules → explainable findings
+Architecture:
 
-🔒 The core diagnostic implementation is maintained in a private repository.
+Flutter / OBD Data Collection → Diagnostic Pipeline → Baseline → Drift Analysis → Physics Rules → Explainable Findings
 
-Repositories:
+Repositories
 
-* 🔧 OILMATE Adapter — OBD/vehicle data collection and adapter layer
-* 🧠 OILMATE Core — Core diagnostic and analysis engine (private)
+🔧 OILMATE Adapter
+Public Flutter/Dart adapter responsible for OBD vehicle data collection and transport.
+
+🧠 OILMATE Core 🔒
+Core diagnostic and analysis engine. The repository is private because the implementation is proprietary.
 
 ⸻
 
