@@ -34,7 +34,7 @@ Frontend Work
 
 Technology
 
-Angular TypeScript JavaScript Firebase Firestore HTML5 CSS3 Responsive Design
+Angular,TypeScript,JavaScript,Firebase Firestore,HTML5,CSS3,Responsive Design
 
 🌐 Website : https://srorganics.org
 
@@ -72,11 +72,11 @@ OBD / ELM327 → Data Collection → Data Processing → Vehicle Analysis → Di
 
 Technology
 
-Python Flutter Dart OBD-II ELM327 JSONL
+Python,Flutter,Dart,OBD-II,ELM327,JSONL
 
 Core Concepts
 
-Vehicle Behavior Analysis Trend Analysis Driving Context Data Reliability Explainable Diagnostics
+Vehicle Behavior Analysis,Trend Analysis,Driving Context,Data Reliability,Explainable Diagnostics
 
 📂 Repository
 
