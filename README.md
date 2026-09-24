@@ -1,5 +1,3 @@
-Yes bro. That order is actually better for a Senior Frontend Developer recruiter: first establish your experience, then show S.R. Organic as your frontend project, and then show OILMATE as your engineering/system-design project.
-
 Mayur Yadav Golla
 
 Senior Frontend Developer | Angular | TypeScript | JavaScript
@@ -10,7 +8,7 @@ I specialize in Angular, TypeScript, JavaScript, RxJS, REST API integration, fro
 
 ⸻
 
-🚀 Featured Projects
+Projects:
 
 🌱 S.R. Organic — Angular & Firebase Business Application
 
@@ -44,6 +42,7 @@ Repository:
 S.R. Organic⁠: https://github.com/mayuryadavgolla/sr-organic
 
 ⸻
+Featured Project:
 
 🚗 OILMATE — Automotive Diagnostic Platform
 
@@ -53,18 +52,27 @@ OILMATE is designed around evidence-based diagnostics rather than black-box pred
 
 Engineering Work
 
-* OBD-II / ELM327 vehicle data collection
-* OBD Mode 01 data ingestion and normalization
-* Vehicle signal quality and completeness checks
-* Per-vehicle baseline learning
-* Signal drift detection
-* Driving-context segmentation
-* Physics-based diagnostic rules
-* Confidence and evidence gating
-* Explainable diagnostic findings
-* Session and window management
-* Flutter-based OBD adapter
-* Diagnostic data processing and analysis
+- OBD-II / ELM327 vehicle data collection
+
+- OBD Mode 01 data ingestion and normalization
+
+- Vehicle data quality analysis
+
+- Vehicle behavior and trend analysis
+
+- Driving-context analysis
+
+- Automotive diagnostic analysis
+
+- Data reliability assessment
+
+- Explainable diagnostic insights
+
+- Structured vehicle data processing
+
+- Flutter-based OBD adapter
+
+- Diagnostic data processing and analysis
 
 Diagnostic Pipeline
 
