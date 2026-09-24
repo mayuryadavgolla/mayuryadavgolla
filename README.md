@@ -17,12 +17,8 @@ A physics-first automotive diagnostic platform focused on real vehicle data, bas
 Repositories
 
 🔧 OILMATE Adapter
-👉 Open OILMATE Adapter Repository
+https://github.com/oilmatecarhealthapp/oilmate-adapter
 
-🧠 OILMATE Core 🔒
-👉 Open OILMATE Core Repository
-
-⸻
 
 🌱 S.R. Organic — Business Web Application
 
@@ -39,8 +35,7 @@ Features include:
 * Responsive UI
 
 Repository
-
-👉 Open S.R. Organic Repository
+S.R. Organic Repository: (https://github.com/mayuryadavgolla/sr-organic)
 
 ⸻
 
