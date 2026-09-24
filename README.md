@@ -6,8 +6,9 @@ Senior Frontend Developer with 9+ years of experience building enterprise web ap
 
 I specialize in Angular, TypeScript, JavaScript, RxJS, REST API integration, frontend architecture, performance optimization, and responsive UI development.
 
+⸻
 
-Projects:
+🚀 Projects
 
 🌱 S.R. Organic — Angular & Firebase Business Application
 
@@ -33,61 +34,57 @@ Frontend Work
 
 Technology
 
-Angular,TypeScript,JavaScript,Firebase Firestore,HTML5,CSS3,Responsive Design
+Angular TypeScript JavaScript Firebase Firestore HTML5 CSS3 Responsive Design
 
-Website: https://srorganics.org
+🌐 Website : https://srorganics.org
 
-Repository:
-S.R. Organic⁠: https://github.com/mayuryadavgolla/sr-organic
+📂 Repository
 
-Featured Project:
+S.R. Organic : https://github.com/mayuryadavgolla/sr-organic
 
-🚗 OILMATE — Automotive Diagnostic Platform
+⸻
 
-A physics-first automotive diagnostic platform designed to analyze real vehicle data and identify meaningful deviations through baseline learning, signal drift detection, driving context, and explainable diagnostics.
+🚗 Featured Project — OILMATE
+
+Automotive Diagnostic Platform
+
+A physics-first automotive diagnostic platform designed to analyze real vehicle data and identify meaningful deviations through baseline learning, signal analysis, driving context, and explainable diagnostics.
 
 OILMATE is designed around evidence-based diagnostics rather than black-box predictions.
 
 Engineering Work
 
-- OBD-II / ELM327 vehicle data collection
+* OBD-II / ELM327 vehicle data collection
+* OBD Mode 01 data ingestion and normalization
+* Vehicle data quality analysis
+* Vehicle behavior and trend analysis
+* Driving-context analysis
+* Automotive diagnostic analysis
+* Data reliability assessment
+* Explainable diagnostic insights
+* Structured vehicle data processing
+* Flutter-based OBD adapter
+* Diagnostic data processing and analysis
 
-- OBD Mode 01 data ingestion and normalization
-
-- Vehicle data quality analysis
-
-- Vehicle behavior and trend analysis
-
-- Driving-context analysis
-
-- Automotive diagnostic analysis
-
-- Data reliability assessment
-
-- Explainable diagnostic insights
-
-- Structured vehicle data processing
-
-- Flutter-based OBD adapter
-
-- Diagnostic data processing and analysis
-
-Diagnostic Pipeline
-
-### OILMATE Architecture
+OILMATE Architecture
 
 OBD / ELM327 → Data Collection → Data Processing → Vehicle Analysis → Diagnostic Insights
 
 Technology
 
-Python,Flutter,Dart, OBD-II, ELM327, JSONL ,Physics-Based Diagnostics
+Python Flutter Dart OBD-II ELM327 JSONL
 
-Repositories
+Core Concepts
 
-OILMATE Adapter⁠￼: https://github.com/oilmatecarhealthapp/oilmate-adapter
+Vehicle Behavior Analysis Trend Analysis Driving Context Data Reliability Explainable Diagnostics
+
+📂 Repository
+
+OILMATE Adapter : https://github.com/oilmatecarhealthapp/oilmate-adapter
 
 🔒 OILMATE Core — The core diagnostic engine is maintained in a private repository.
 
+⸻
 
 🛠️ Technical Focus
 
@@ -111,6 +108,7 @@ Other
 
 Python Flutter Dart Git GitHub
 
+⸻
 
 💼 Professional Experience
 
@@ -124,7 +122,7 @@ Python Flutter Dart Git GitHub
 * Angular migrations and modernization
 * Agile/Scrum development
 
-
+⸻
 
 🎯 Currently Focused On
 
@@ -141,4 +139,4 @@ Python Flutter Dart Git GitHub
 
 Currently open to Senior Frontend Developer / Senior Angular Developer opportunities.
 
-GitHub — Mayur Yadav Golla⁠￼
+GitHub: Mayur Yadav Golla
