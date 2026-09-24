@@ -6,7 +6,6 @@ Senior Frontend Developer with 9+ years of experience building enterprise web ap
 
 I specialize in Angular, TypeScript, JavaScript, RxJS, REST API integration, frontend architecture, performance optimization, and responsive UI development.
 
-⸻
 
 Projects:
 
@@ -41,7 +40,6 @@ Website: https://srorganics.org
 Repository:
 S.R. Organic⁠: https://github.com/mayuryadavgolla/sr-organic
 
-⸻
 Featured Project:
 
 🚗 OILMATE — Automotive Diagnostic Platform
@@ -88,7 +86,6 @@ OILMATE Adapter⁠￼: https://github.com/oilmatecarhealthapp/oilmate-adapter
 
 🔒 OILMATE Core — The core diagnostic engine is maintained in a private repository.
 
-⸻
 
 🛠️ Technical Focus
 
@@ -112,7 +109,6 @@ Other
 
 Python Flutter Dart Git GitHub
 
-⸻
 
 💼 Professional Experience
 
@@ -126,7 +122,7 @@ Python Flutter Dart Git GitHub
 * Angular migrations and modernization
 * Agile/Scrum development
 
-⸻
+
 
 🎯 Currently Focused On
 
