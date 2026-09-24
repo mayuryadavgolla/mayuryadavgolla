@@ -74,7 +74,9 @@ Engineering Work
 
 Diagnostic Pipeline
 
-OBD / ELM327 → Flutter Adapter → Data Normalization → Windowing → Context → Guardrails → Baseline → Drift → Physics Rules → Findings
+### OILMATE Architecture
+
+OBD / ELM327 → Data Collection → Data Processing → Vehicle Analysis → Diagnostic Insights
 
 Technology
 
